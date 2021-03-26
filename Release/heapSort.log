@@ -1,0 +1,6 @@
+﻿  heapSort.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\User\Desktop\HW\Programming\c++\heapSort\heapSort\heapSort.cpp(54): error C4700: использована неинициализированная локальная переменная "sum"
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: не удалось создать код
